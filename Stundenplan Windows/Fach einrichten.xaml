@@ -1,0 +1,43 @@
+﻿<Window x:Class="Stundenplan.Fach_einrichten"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Stundenplan"
+        mc:Ignorable="d"
+        Title="Fach einrichten" Height="150" Width="250" MinHeight="150" MinWidth="250" MaxHeight="250" MaxWidth="350">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition MinWidth="30" MaxWidth="40"/>
+            <ColumnDefinition MinWidth="30" MaxWidth="40"/>
+            <ColumnDefinition MinWidth="30" MaxWidth="40"/>
+            <ColumnDefinition MinWidth="30" MaxWidth="40"/>
+            <ColumnDefinition MinWidth="30" MaxWidth="40"/>
+            <ColumnDefinition MinWidth="30" MaxWidth="40"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition MinHeight="30" MaxHeight="40"/>
+            <RowDefinition MinHeight="30" MaxHeight="40"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="Taganzeige" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Text="Montag 1. Stunde"/>
+        <TextBox x:Name="FachName" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="4" Text="Fachname hier eingeben"/>
+        <Button x:Name="F0" Grid.Row="2" Grid.Column="0" Content="Rot" Click="F0_Click" Background="Red"/>
+        <Button x:Name="F1" Grid.Row="2" Grid.Column="1" Content="Blau" Click="F1_Click" Background="Blue"/>
+        <Button x:Name="F2" Grid.Row="2" Grid.Column="2" Content="Gelb" Click="F2_Click" Background="Yellow"/>
+        <Button x:Name="F3" Grid.Row="2" Grid.Column="3" Content="Lila" Click="F3_Click" Background="Purple"/>
+        <Button x:Name="F4" Grid.Row="2" Grid.Column="4" Content="Grün" Click="F4_Click" Background="Green"/>
+        <Button x:Name="F5" Grid.Row="2" Grid.Column="5" Content="Braun" Click="F5_Click" Background="Brown"/>
+        <Button x:Name="F6" Grid.Row="3" Grid.Column="0" Content="Orange" Click="F6_Click" Background="Orange"/>
+        <Button x:Name="F7" Grid.Row="3" Grid.Column="1" Content="Weiß" Click="F7_Click" Background="White"/>
+        <Button x:Name="F8" Grid.Row="3" Grid.Column="2" Content="Beige" Click="F8_Click" Background="Beige"/>
+        <Button x:Name="F9" Grid.Row="3" Grid.Column="3" Content="Coral" Click="F9_Click" Background="Coral"/>
+        <Button x:Name="F10" Grid.Row="3" Grid.Column="4" Content="Pink" Click="F10_Click" Background="DeepPink"/>
+        <Button x:Name="F11" Grid.Row="3" Grid.Column="5" Content="Grau" Click="F11_Click" Background="Gray"/>
+        <Rectangle x:Name="ColorBox" Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="2"  Fill="Red"/>
+        <Button x:Name="Save" Grid.Row="4" Grid.Column="5" Content="Speichern" FontSize="8" Click="Save_Click"/>
+    </Grid>
+</Window>

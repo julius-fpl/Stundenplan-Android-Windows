@@ -1,0 +1,76 @@
+﻿<Window x:Class="Stundenplan.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Stundenplan"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" MinHeight="250" MinWidth="530">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition MinWidth="40" MaxWidth="100"/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition MinHeight="30" MaxHeight="60"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition MaxHeight="35" MinHeight="20"/>
+        </Grid.RowDefinitions>
+
+        <Button x:Name="Wochen" Grid.Row="0" Grid.Column="0" Content="A" FontSize="30" Click="Wochen_Click"/>
+
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="7:50-8:50Uhr" Margin="6,10,0,0" FontSize="10"/>
+        <TextBlock Grid.Row="2" Grid.Column="0" Text="9:00-10:00Uhr" Margin="6,10,0,0" FontSize="10"/>
+        <TextBlock Grid.Row="3" Grid.Column="0" Text="10:20-11:20Uhr" Margin="6,10,0,0" FontSize="10"/>
+        <TextBlock Grid.Row="4" Grid.Column="0" Text="11:30-12:30Uhr" Margin="6,10,0,0" FontSize="10"/>
+        <TextBlock Grid.Row="5" Grid.Column="0" Text="12:50-13:50Uhr" Margin="6,10,0,0" FontSize="10"/>
+
+        <TextBlock Grid.Row="0" Grid.Column="1" Text="Montag" Margin="6,10,0,0" FontSize="16"/>
+        <TextBlock Grid.Row="0" Grid.Column="2" Text="Dienstag" Margin="6,10,0,0" FontSize="16"/>
+        <TextBlock Grid.Row="0" Grid.Column="3" Text="Mittwoch" Margin="6,10,0,0" FontSize="16"/>
+        <TextBlock Grid.Row="0" Grid.Column="4" Text="Donnerstag" Margin="6,10,0,0" FontSize="16"/>
+        <TextBlock Grid.Row="0" Grid.Column="5" Text="Freitag" Margin="6,10,0,0" FontSize="16"/>
+
+        <Button x:Name="T0" Grid.Row="1" Grid.Column="1" Content="Fach wählen" Click="Montag1_Click" Background="#FFDDDDDD"/>
+        <Button x:Name="T1" Grid.Row="2" Grid.Column="1" Content="Fach wählen" Click="Montag2_Click"/>
+        <Button x:Name="T2" Grid.Row="3" Grid.Column="1" Content="Fach wählen" Click="Montag3_Click"/>
+        <Button x:Name="T3" Grid.Row="4" Grid.Column="1" Content="Fach wählen" Click="Montag4_Click"/>
+        <Button x:Name="T4" Grid.Row="5" Grid.Column="1" Content="Fach wählen" Click="Montag5_Click"/>
+
+        <Button x:Name="T5" Grid.Row="1" Grid.Column="2" Content="Fach wählen" Click="Dientsag1_Click"/>
+        <Button x:Name="T6" Grid.Row="2" Grid.Column="2" Content="Fach wählen" Click="Dientsag2_Click"/>
+        <Button x:Name="T7" Grid.Row="3" Grid.Column="2" Content="Fach wählen" Click="Dientsag3_Click"/>
+        <Button x:Name="T8" Grid.Row="4" Grid.Column="2" Content="Fach wählen" Click="Dientsag4_Click"/>
+        <Button x:Name="T9" Grid.Row="5" Grid.Column="2" Content="Fach wählen" Click="Dientsag5_Click"/>
+
+        <Button x:Name="T10" Grid.Row="1" Grid.Column="3" Content="Fach wählen" Click="Mittwoch1_Click"/>
+        <Button x:Name="T11" Grid.Row="2" Grid.Column="3" Content="Fach wählen" Click="Mittwoch2_Click"/>
+        <Button x:Name="T12" Grid.Row="3" Grid.Column="3" Content="Fach wählen" Click="Mittwoch3_Click"/>
+        <Button x:Name="T13" Grid.Row="4" Grid.Column="3" Content="Fach wählen" Click="Mittwoch4_Click"/>
+        <Button x:Name="T14" Grid.Row="5" Grid.Column="3" Content="Fach wählen" Click="Mittwoch5_Click"/>
+
+        <Button x:Name="T15" Grid.Row="1" Grid.Column="4" Content="Fach wählen" Click="Donnerstag1_Click"/>
+        <Button x:Name="T16" Grid.Row="2" Grid.Column="4" Content="Fach wählen" Click="Donnerstag2_Click"/>
+        <Button x:Name="T17" Grid.Row="3" Grid.Column="4" Content="Fach wählen" Click="Donnerstag3_Click"/>
+        <Button x:Name="T18" Grid.Row="4" Grid.Column="4" Content="Fach wählen" Click="Donnerstag4_Click"/>
+        <Button x:Name="T19" Grid.Row="5" Grid.Column="4" Content="Fach wählen" Click="Donnerstag5_Click"/>
+
+        <Button x:Name="T20" Grid.Row="1" Grid.Column="5" Content="Fach wählen" Click="Freitag1_Click"/>
+        <Button x:Name="T21" Grid.Row="2" Grid.Column="5" Content="Fach wählen" Click="Freitag2_Click"/>
+        <Button x:Name="T22" Grid.Row="3" Grid.Column="5" Content="Fach wählen" Click="Freitag3_Click"/>
+        <Button x:Name="T23" Grid.Row="4" Grid.Column="5" Content="Fach wählen" Click="Freitag4_Click"/>
+        <Button x:Name="T24" Grid.Row="5" Grid.Column="5" Content="Fach wählen" Click="Freitag5_Click"/>
+
+        <Button x:Name="Reload" Grid.Row="6" Grid.Column="1" Content="Neu Laden" Click="Reload_Click"/>
+        <Button x:Name="Export" Grid.Row="6" Grid.Column="2" Content="Export" Click="Export_Click"/>
+        <Button x:Name="Import" Grid.Row="6" Grid.Column="3" Content="Import" Click="Import_Click"/>
+    </Grid>
+</Window>

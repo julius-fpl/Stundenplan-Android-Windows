@@ -1,0 +1,53 @@
+C:\Users\user\source\repos\Stundenplan\bin\Debug\Stundenplan.exe.config
+C:\Users\user\source\repos\Stundenplan\bin\Debug\Stundenplan.exe
+C:\Users\user\source\repos\Stundenplan\bin\Debug\Stundenplan.pdb
+C:\Users\user\source\repos\Stundenplan\obj\Debug\Stundenplan.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Stundenplan\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Stundenplan\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Stundenplan\obj\Debug\Stundenplan_MarkupCompile.cache
+C:\Users\user\source\repos\Stundenplan\obj\Debug\Stundenplan_MarkupCompile.lref
+C:\Users\user\source\repos\Stundenplan\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\Stundenplan\obj\Debug\Stundenplan.g.resources
+C:\Users\user\source\repos\Stundenplan\obj\Debug\Stundenplan.Properties.Resources.resources
+C:\Users\user\source\repos\Stundenplan\obj\Debug\Stundenplan.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Stundenplan\obj\Debug\Stundenplan.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Stundenplan\obj\Debug\Stundenplan.exe
+C:\Users\user\source\repos\Stundenplan\obj\Debug\Stundenplan.pdb
+C:\Users\user\source\repos\Stundenplan\obj\Debug\Fach einrichten.g.cs
+C:\Users\user\source\repos\Stundenplan\obj\Debug\Fach einrichten.baml
+C:\Users\Julius\source\repos\Archiv\Stundenplan\bin\Debug\Stundenplan.exe.config
+C:\Users\Julius\source\repos\Archiv\Stundenplan\bin\Debug\Stundenplan.exe
+C:\Users\Julius\source\repos\Archiv\Stundenplan\bin\Debug\Stundenplan.pdb
+C:\Users\Julius\source\repos\Archiv\Stundenplan\obj\Debug\Stundenplan.csproj.AssemblyReference.cache
+C:\Users\Julius\source\repos\Archiv\Stundenplan\obj\Debug\Stundenplan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julius\source\repos\Archiv\Stundenplan\obj\Debug\Fach einrichten.g.cs
+C:\Users\Julius\source\repos\Archiv\Stundenplan\obj\Debug\MainWindow.g.cs
+C:\Users\Julius\source\repos\Archiv\Stundenplan\obj\Debug\App.g.cs
+C:\Users\Julius\source\repos\Archiv\Stundenplan\obj\Debug\Stundenplan_MarkupCompile.cache
+C:\Users\Julius\source\repos\Archiv\Stundenplan\obj\Debug\Stundenplan_MarkupCompile.lref
+C:\Users\Julius\source\repos\Archiv\Stundenplan\obj\Debug\Fach einrichten.baml
+C:\Users\Julius\source\repos\Archiv\Stundenplan\obj\Debug\MainWindow.baml
+C:\Users\Julius\source\repos\Archiv\Stundenplan\obj\Debug\Stundenplan.g.resources
+C:\Users\Julius\source\repos\Archiv\Stundenplan\obj\Debug\Stundenplan.Properties.Resources.resources
+C:\Users\Julius\source\repos\Archiv\Stundenplan\obj\Debug\Stundenplan.csproj.GenerateResource.cache
+C:\Users\Julius\source\repos\Archiv\Stundenplan\obj\Debug\Stundenplan.csproj.CoreCompileInputs.cache
+C:\Users\Julius\source\repos\Archiv\Stundenplan\obj\Debug\Stundenplan.exe
+C:\Users\Julius\source\repos\Archiv\Stundenplan\obj\Debug\Stundenplan.pdb
+C:\Users\Julius\Documents\Projekts\Stundenplan-Android-Windows\Stundenplan Windows\bin\Debug\Stundenplan.exe.config
+C:\Users\Julius\Documents\Projekts\Stundenplan-Android-Windows\Stundenplan Windows\bin\Debug\Stundenplan.exe
+C:\Users\Julius\Documents\Projekts\Stundenplan-Android-Windows\Stundenplan Windows\bin\Debug\Stundenplan.pdb
+C:\Users\Julius\Documents\Projekts\Stundenplan-Android-Windows\Stundenplan Windows\obj\Debug\Stundenplan.csproj.AssemblyReference.cache
+C:\Users\Julius\Documents\Projekts\Stundenplan-Android-Windows\Stundenplan Windows\obj\Debug\Stundenplan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julius\Documents\Projekts\Stundenplan-Android-Windows\Stundenplan Windows\obj\Debug\Fach einrichten.g.cs
+C:\Users\Julius\Documents\Projekts\Stundenplan-Android-Windows\Stundenplan Windows\obj\Debug\MainWindow.g.cs
+C:\Users\Julius\Documents\Projekts\Stundenplan-Android-Windows\Stundenplan Windows\obj\Debug\App.g.cs
+C:\Users\Julius\Documents\Projekts\Stundenplan-Android-Windows\Stundenplan Windows\obj\Debug\Stundenplan_MarkupCompile.cache
+C:\Users\Julius\Documents\Projekts\Stundenplan-Android-Windows\Stundenplan Windows\obj\Debug\Stundenplan_MarkupCompile.lref
+C:\Users\Julius\Documents\Projekts\Stundenplan-Android-Windows\Stundenplan Windows\obj\Debug\Fach einrichten.baml
+C:\Users\Julius\Documents\Projekts\Stundenplan-Android-Windows\Stundenplan Windows\obj\Debug\MainWindow.baml
+C:\Users\Julius\Documents\Projekts\Stundenplan-Android-Windows\Stundenplan Windows\obj\Debug\Stundenplan.g.resources
+C:\Users\Julius\Documents\Projekts\Stundenplan-Android-Windows\Stundenplan Windows\obj\Debug\Stundenplan.Properties.Resources.resources
+C:\Users\Julius\Documents\Projekts\Stundenplan-Android-Windows\Stundenplan Windows\obj\Debug\Stundenplan.csproj.GenerateResource.cache
+C:\Users\Julius\Documents\Projekts\Stundenplan-Android-Windows\Stundenplan Windows\obj\Debug\Stundenplan.csproj.CoreCompileInputs.cache
+C:\Users\Julius\Documents\Projekts\Stundenplan-Android-Windows\Stundenplan Windows\obj\Debug\Stundenplan.exe
+C:\Users\Julius\Documents\Projekts\Stundenplan-Android-Windows\Stundenplan Windows\obj\Debug\Stundenplan.pdb
